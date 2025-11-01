@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./main-logo-sill.png" alt="Yooz" width="120" style="filter: grayscale(100%) brightness(1.2);">
+<img src="./main-logo-g.png" alt="Yooz" width="120">
 
 # Yooz
 

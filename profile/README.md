@@ -4,10 +4,10 @@
 
 # Yooz
 
-### Private AI. Beautiful Apps. Your Control.
+### Private AI. Zero Setup. Just Works.
 
 Secure note-taking and AI-powered keyboard that work entirely on your device.
-No cloud mining. No data collection. Just beautiful tools that respect your privacy.
+No cloud mining. No data collection. No technical expertise required.
 
 <br>
 
@@ -109,9 +109,9 @@ Your data is encrypted before it ever leaves your device. Even cloud storage pro
 </td>
 <td width="33%" align="center">
 
-**Consumer-Grade UX**
+**Zero Setup Required**
 
-No command-line setup. No technical expertise required. Privacy tools should be as easy to use as any modern app.
+Install and start using immediately. No configuration. No technical expertise. Privacy tools that just work.
 
 </td>
 </tr>
@@ -185,7 +185,7 @@ We're building in public. Check out our repositories, open issues, and join the 
 
 **Privacy is non-negotiable.**
 **Local-first is the default.**
-**Beautiful design is essential.**
+**Zero setup. Just works.**
 
 <br>
 
